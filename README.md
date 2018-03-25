@@ -16,8 +16,8 @@ An additional DL model was designed and trained to recognize humans and dogs whe
 
 # Contributions
 
-This was a learning project not a development. 
+This was a learning project, not a development. 
 
 # License
 
-This was part of Udacity course, act accordingly. 
+This was a part of Coursera course, act accordingly. Reminding: plagiarism not recommended. But look and learn if find it useful.  
